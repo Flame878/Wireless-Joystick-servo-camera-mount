@@ -39,7 +39,6 @@ which controls a servo motor to rotate a phone-mounted camera platform.
 - PWM signal control over wireless link
 
 -- Future Improvements --
-- Add second axis (pan/tilt)
 - Implement dead-zone filtering
-- Enclosure design
-- Battery voltage monitoring
+- Enclosure design (I cant 3d model a case yet need to learn)
+- Battery voltage monitoring ( Gave me alot of problems but fixed it since i use the camera stand for my church it needs to be able to run for atleast 2hrs -- My test run lasted an hour n 30m so i think my solution worked)
