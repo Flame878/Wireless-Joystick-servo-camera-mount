@@ -1,0 +1,11 @@
+These were some problems i was having and the way i decided to fix them
+
+--Power Design--
+Servo motor is powered directly from a USB power bank to handle high current demands.
+Arduino boards are used strictly for logic and control signals.
+
+All grounds are tied together to maintain a common reference and prevent signal instability.
+
+--RF Communication--
+NRF24L01 modules operate at 2.4 GHz using SPI.
+Communication reliability was validated using transmit/receive test sketches.
